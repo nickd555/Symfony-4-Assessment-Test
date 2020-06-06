@@ -1,0 +1,3 @@
+This is the project I created for an assessment test. The project is meant to accept data chunks and process these chunks, then upload the processed data into a relational database.
+
+For this project we will be using PHP with Symfony 4 as our framework, HTML and CSS to provide a user interface and to show our ongoing process and MYSQL as our database. Github will be used for both storing increments of our project during development to show use of continuous integration and to show our final product.
